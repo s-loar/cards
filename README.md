@@ -1,6 +1,7 @@
 # Cards
 
-**TODO: Add description**
+**Description**
+Learning Elixir from this example
 
 ## Installation
 
